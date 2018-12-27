@@ -1,2 +1,2 @@
 # ULIMATE-FRISBEE
-A web page describing Ulimate Frisbee sports.
+A web page describing Ulimate Frisbee sport.
